@@ -1,0 +1,13 @@
+# 大文件忽略
+*.zip
+*.pth
+*.pt
+*.onnx
+checkpoints/
+models/
+
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
