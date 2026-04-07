@@ -14,7 +14,7 @@ such as insulators in complex aerial power line scenes.
 
 ## 📰 News
 
-- **[2025.10]** Public demo version is now available on GitHub 🎉  
+- **[2026.4]** Public demo version is now available on GitHub 🎉  
 
 ---
 
