@@ -31,7 +31,7 @@ In this work, we rethink oriented object detection by introducing **line-segment
   significantly improving both classification and bounding box regression.
 
 - 🧠 **End-to-End Detection Framework**  
-  The overall model integrates three modules:
+  The overall model integrates three modules: 
   1. **AxisAnchor Proposal**  
   2. **AxisAnchor Filtering**  
   3. **Oriented Feature Alignment (OFA)**  
@@ -42,6 +42,25 @@ In this work, we rethink oriented object detection by introducing **line-segment
   on insulator datasets, especially for targets with **small aspect ratios** and **large scale variations**.
 
 ---
+
+## 🛠️ Installation
+
+git clone https://github.com/tanxiaoshu271-cyber/insulator_detection.git
+cd insulator_detection
+
+# create environment (optional)
+conda create -n axisanchor python=3.10
+conda activate axisanchor
+
+# install the project
+pip install -e .
+
+## Pretrained Weights
+
+We provide a pretrained model for inference and demonstration:
+
+Baidu Netdisk: https://pan.baidu.com/s/1w-ZfnHNfDuyUf1yTjHaVyQ
+Extraction Code: 7sse
 
 ## 📦 Demo Dataset
 
